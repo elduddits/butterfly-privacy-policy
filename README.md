@@ -28,4 +28,4 @@ If this policy changes in the future, the updated version will be made available
 
 ## Contact
 
-If you have any questions about this privacy policy, you can reach us at [your contact email].
+If you have any questions about this privacy policy or the Butterfly Subscription Tracker app, please leave a review in the App Store and I'll gladly take a look.
