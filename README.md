@@ -18,10 +18,6 @@ All data entered into Butterfly — including your subscriptions, groups, and pr
 
 Butterfly does not use any third-party analytics, advertising SDKs, or tracking tools. Your data is never shared with or sold to third parties.
 
-## Screen Time & Device Activity
-
-Butterfly uses Apple's Screen Time API solely to display app usage information within the app. This data never leaves your device.
-
 ## Changes to This Policy
 
 If this policy changes in the future, the updated version will be made available within the app and on this page.
