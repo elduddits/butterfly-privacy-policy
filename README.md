@@ -20,4 +20,5 @@ Butterfly does not use any third-party analytics, advertising SDKs, or tracking 
 If this policy changes in the future, the updated version will be made available within the app and on this page.
 
 ## Contact
-If you have any questions about this privacy policy or the Butterfly Subscription Tracker app, please leave a review in the App Store and I'll gladly take a look.
+Have a question or spotted a bug? Fill out the form below and I'll get back to you within a few days.
+[Contact & Support Form](https://forms.gle/r5FWV2c9HWsxQX5r5)
