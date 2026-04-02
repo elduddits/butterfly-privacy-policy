@@ -24,16 +24,16 @@ Thanks for using Butterfly! If you're experiencing an issue or have a question, 
 
 ## Frequently Asked Questions
 
-**Is Butterfly really free?**
+### **Is Butterfly really free?**
 Yes, completely. No subscriptions, no ads, or anything.
 
-**My data isn't syncing across devices. What should I do?**
+### **My data isn't syncing across devices. What should I do?**
 Make sure iCloud is enabled for Butterfly on all your iOS devices under Settings → [Your Name] → iCloud → Butterfly.
 
-**The total cost per month for my subscriptions is not adding up**
+### **The total cost per month for my subscriptions is not adding up**
 The cost only considers subscriptiosn that have not been marked as cancelled. This means expiring subscriptiosn will also be excluded from the cost calculation.
 
-**How do I delete a group?**
+### **How do I delete a group?**
 Swipe left on a group, then select Delete. Alternatively, you can tap on the Manage Groups button (Folder with Gear) at the top of the home screen. Tap on Edit, then select any group you wish to remove. Tap Delete and choose what to do with any subscription inside the group. 
 
 ## Contact
